@@ -55,6 +55,10 @@ body{
     padding:5px;
 }
 
+.list:empty{
+    width:0;
+}
+
 .list-item{
     display: flex;
     justify-content: space-between;
