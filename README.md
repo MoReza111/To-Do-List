@@ -1,2 +1,2 @@
 # To-Do-List
-A simple ToDo lisr=t using Vanilla JS
+A simple ToDo list using Vanilla JS and HTML and Css
